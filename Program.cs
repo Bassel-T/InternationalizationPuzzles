@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Year2025.Day4.Solution();
+            Year2025.Day5.Solution();
         }
     }
 }
